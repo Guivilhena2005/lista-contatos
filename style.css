@@ -1,0 +1,12 @@
+footer a:hover {
+  color: #ff4fd8;
+  transition: 0.3s;
+}
+
+footer a i:hover {
+  color: #3cff00;
+}
+
+footer {
+  border-top: 1px solid #ff4fd8;
+}
